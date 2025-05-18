@@ -9,7 +9,7 @@ pygame.display.set_caption("Human vs Aliens 👽")
 
 # Colors
 WHITE = (255, 255, 255)
-BLACK = (0, 0, 0)
+BLACK = (0, 0, 0) 
 
 # Load images
 player_img = pygame.image.load("game/human.png")
